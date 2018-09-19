@@ -7,8 +7,8 @@ h1 {
   font-size 70px;
   font-weight: bold;
   color: white;
-  background-color: dimgrey;
-  background-image: url("C:\Users\mariela\Documents\Projects\broadway\resources\images\the-flatiron-building.png");
+  /* background-color: dimgrey;*/
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
 }
 
 h2 {
@@ -34,8 +34,8 @@ a {
 }
 
 #header{
-  background-color: dimgrey;
-  background-image: url("..\images\the-flatiron-building.png");
+  /*background-color: dimgrey;*/
+  background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
 }
 
 #centered {
@@ -53,8 +53,7 @@ a {
 
   #work {
     color: white;
-    background-color: grey;
-    background-image: url("..\images\the-flatiron-building.png");
+    background-image: url('https://s3.amazonaws.com/codecademy-content/programs/freelance-one/broadway/images/the-flatiron-building.jpg');
   }
 
   .darkGrey {
