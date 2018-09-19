@@ -51,7 +51,7 @@ a {
     width: 5%;
   }
 
-  .Picbackground {
+  #work {
     color: white;
     background-color: grey;
     background-image: url("..\images\the-flatiron-building.png");
